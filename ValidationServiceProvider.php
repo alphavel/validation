@@ -2,7 +2,7 @@
 
 namespace Alphavel\Validation;
 
-use Alphavel\Core\ServiceProvider;
+use Alphavel\Framework\ServiceProvider;
 
 class ValidationServiceProvider extends ServiceProvider
 {
