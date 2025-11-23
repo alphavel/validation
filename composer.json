@@ -1,6 +1,7 @@
 {
     "name": "alphavel/validation",
     "description": "Validation package for Alphavel Framework",
+    "version": "1.0.0",
     "type": "library",
     "keywords": ["validation", "validator", "alphavel"],
     "license": "MIT",
